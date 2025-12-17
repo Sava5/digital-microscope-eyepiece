@@ -11,7 +11,7 @@ r_round_corner = 15;
 //translate([0,0,15])
 //cube([162,77.2,9],center=true);
 
-smartphone()
+smartphone();
 translate([0,0,9])
 color("red")
 frame_crossbar();
