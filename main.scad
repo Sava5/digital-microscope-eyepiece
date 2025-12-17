@@ -5,7 +5,7 @@ use <frame.scad>
 echo ("Работа иванова савелия ");
 
 $fn = 128;
-r_round_corner = 15;
+r_round_corner = 15
 
 //color("green")
 //translate([0,0,15])
