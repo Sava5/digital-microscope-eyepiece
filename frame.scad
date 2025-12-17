@@ -158,7 +158,7 @@ module corner(thickness){
     frame2(thickness);
 
 }
-module frame2(thickness){
+module frame2(thickness)
     hull(){
         translate([5,phone_width/2,0])
         cylinder(d=5, h=thickness,center=true,$fn=32);
