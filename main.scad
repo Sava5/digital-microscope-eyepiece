@@ -2,7 +2,7 @@ use <smartphone.scad>
 use <ocular.scad>
 use <frame.scad>
 
-echo ("Работа Назаровой Евгении!");
+echo ("Работа иванова савелия ");
 
 $fn = 128;
 r_round_corner = 15;
