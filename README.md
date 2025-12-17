@@ -7,16 +7,19 @@
 Исходная модель захвата: Модель в форматах STL и UPP в репозитории на GitHub. Universal Phone Microscope Adapter.
 
 
+
 **Окуляр**
 
-![Окуляр](images/ocular.jpg)
+![Окуляр](ocular.png)
+
 
 
 **Боковой держатель**
 
-![Боковой держатель](images/holder.jpg)
+![Боковой держатель](holder.png)
+
 
 
 **Модель смартфона iPhone 15**
 
-![iPhone 15](images/iphone15.png)
+![Модель смартфона iPhone 15](smartphone.png)
